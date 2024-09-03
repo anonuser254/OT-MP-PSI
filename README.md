@@ -16,7 +16,7 @@ We provide instructions for using the project locally and with docker.
     
     ``juliaup add 1.10``
 
-- Make the julia 1.10 the default version by running 
+- Make julia 1.10 the default version by running 
 
     ``juliaup default 1.10``
 
